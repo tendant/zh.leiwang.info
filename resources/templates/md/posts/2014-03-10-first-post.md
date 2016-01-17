@@ -1,6 +1,6 @@
 {:title "A Post"
  :layout :post
- :tags  ["sports "]}
+ :tags  ["sports"]}
 
 ### This Post Not Fetch Enough
 
