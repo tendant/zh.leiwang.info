@@ -15,7 +15,7 @@
  :sass-src           nil
  :sass-dest          nil
  :theme              "blue"
- :resources          ["img" ".htaccess"]
+ :resources          ["img" ".htaccess" "CNAME"]
  :keep-files         [".git"]
  :disqus?            false
  :disqus-shortname   ""
