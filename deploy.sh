@@ -1,1 +1,1 @@
-git subtree push --prefix resources/public origin master
+git subtree push --prefix resources/public origin gh-pages
